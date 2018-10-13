@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1539430627 "sample.dvi" "sample.pdf" "sample" 1539430627
+["dvipdf"] 1539430627 "sample.dvi" "sample.pdf" "sample" 1539431330
   "sample.dvi" 1539430627 528 db5ca754bb43dbb337ed891730dcb3ef "latex"
   (generated)
   "sample.pdf"
-["latex"] 1539430627 "sample.tex" "sample.dvi" "sample" 1539430627
+["latex"] 1539430627 "sample.tex" "sample.dvi" "sample" 1539431330
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1480098698 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1480098698 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1480098698 856 39c171483fe1bb7d0e1368980c0c205b ""
@@ -68,8 +68,8 @@
   "/usr/local/texlive/2018/texmf-var/web2c/eptex/platex.fmt" 1536903779 885618 1a9003fb28b1e19090dd552d10294721 ""
   "/usr/local/texlive/2018/texmf.cnf" 1536903261 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "sample.aux" 1539430627 8 a94a2480d3289e625eea47cd1b285758 ""
-  "sample.tex" 1539430625 430 ce83a851cd5f434dd7f6e687d3df0f06 ""
+  "sample.tex" 1539430640 430 ce83a851cd5f434dd7f6e687d3df0f06 ""
   (generated)
+  "sample.dvi"
   "sample.aux"
   "sample.log"
-  "sample.dvi"
