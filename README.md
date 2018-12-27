@@ -4,5 +4,5 @@ tex関連
 ubuntu
 ```
 $ sudo apt -fsSL get.docker.com | sudo sh
-$ sudo apt install evince
+$ sudo apt install qpdfview
 ```
